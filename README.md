@@ -1,16 +1,19 @@
-## Hi there 👋
+```text
+---------------------------------------------------------------
+  OS         : Windows 11 / Linux
+  Host       : Afzal Alam Server
+  Role       : Full-Stack Developer & AI Architect
+---------------------------------------------------------------
+  Tech.Core  : Python, JavaScript, TypeScript
+  Tech.Web   : React, Next.Js, Express.Js, Node.Js, Laravel
+  Focus      : AI, RAG Pipelines, System Design
+---------------------------------------------------------------
+  Contact    : afzalalam.afzuu@gmail.com
+  Twitter    : https://x.com/afzal_dashing
+  LinkedIn   : https://www.linkedin.com/in/afzal-alam-afzuu/
+---------------------------------------------------------------
+  Stats      : Repos: 45 | Commits: 850 | Followers: 300
+---------------------------------------------------------------
 
-<!--
-**afzalalam-afzuu/afzalalam-afzuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+afzalalam.afzuu@gmail.com _
+```
