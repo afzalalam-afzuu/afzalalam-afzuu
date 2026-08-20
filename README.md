@@ -1,7 +1,7 @@
 ```text
 ---------------------------------------------------------------
   OS         : Windows 11 / Linux
-  Host       : Afzal Alam Server
+  Name       : Afzal Alam Server
   Role       : Full-Stack Developer & AI Architect
 ---------------------------------------------------------------
   Tech.Core  : Python, JavaScript, TypeScript
